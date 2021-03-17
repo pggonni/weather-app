@@ -1,5 +1,9 @@
 # weather-app
 
+Based on: https://thewebdev.info/2021/01/24/create-a-weather-app-with-vue-3-and-javascript/
+
+---
+
 ## Project setup
 ```
 yarn install
